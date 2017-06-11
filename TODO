@@ -1,2 +1,3 @@
 - add support for simultaneous used-with / used-by
 - add better color grouping support
+- update graph when used-by is toggled, even when a node is already selected
